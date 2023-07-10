@@ -1,6 +1,8 @@
-https://github.com/calvinmorett/7minuteworkout/assets/11654917/0522bee8-7aea-4286-9f53-a62a494cb3d8
+### 7MW
+https://github.com/calvinmorett/7minuteworkout/assets/11654917/fe97fdb5-7051-47aa-b5fc-5d3330099dfd
 
-### Get Started:
+### Get 
+Started:
 1. Enable sound. Two different sounds are used depending on if you're starting your exercise or resting.
 2. `pip install -r requirements.txt`
 3. `python 7mw.py`
