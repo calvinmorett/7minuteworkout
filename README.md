@@ -1,7 +1,7 @@
 ### Get Started:
-2. `pip install -r requirements.txt`
-3. `python 7mw.py`
-4. Enable your sound volume, and depending on the tone, start your exercise or rest.
+1. `pip install -r requirements.txt`
+2. `python 7mw.py`
+3. Enable your sound volume, and depending on the tone, start your exercise or rest.
 
 ---
 
