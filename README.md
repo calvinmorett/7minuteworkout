@@ -1,3 +1,9 @@
+1. Get Started:
+2. `pip install -r requirements.txt`
+3. `python 7mw.py`
+4. Enable your sound volume, and depending on the tone, start your exercise or rest.
+
+
 ###  The 7-minute workout is a form of high-intensity interval training (HIIT) that offers a quick and efficient way to get a full-body workout. It was developed by Brett Klika and Chris Jordan, and it gained popularity due to its simplicity and time-saving nature.
 
 ### The workout consists of 12 exercises, each performed for 30 seconds with a 10-second rest period in between. These exercises target different muscle groups and provide a cardiovascular challenge. Here's a breakdown of the exercises typically included in the 7-minute workout:
