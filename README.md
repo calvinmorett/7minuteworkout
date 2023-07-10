@@ -1,6 +1,6 @@
-## The 7-minute workout is a form of high-intensity interval training (HIIT) that offers a quick and efficient way to get a full-body workout. It was developed by Brett Klika and Chris Jordan, and it gained popularity due to its simplicity and time-saving nature.
+# The 7-minute workout is a form of high-intensity interval training (HIIT) that offers a quick and efficient way to get a full-body workout. It was developed by Brett Klika and Chris Jordan, and it gained popularity due to its simplicity and time-saving nature.
 
-# The workout consists of 12 exercises, each performed for 30 seconds with a 10-second rest period in between. These exercises target different muscle groups and provide a cardiovascular challenge. Here's a breakdown of the exercises typically included in the 7-minute workout:
+## The workout consists of 12 exercises, each performed for 30 seconds with a 10-second rest period in between. These exercises target different muscle groups and provide a cardiovascular challenge. Here's a breakdown of the exercises typically included in the 7-minute workout:
 
 1 Jumping Jacks: Begin with your feet together and hands by your sides. Jump while spreading your legs wider than hip-width and raising your arms overhead. Jump again to return to the starting position.
 
