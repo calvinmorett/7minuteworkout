@@ -26,4 +26,4 @@
 
 12 Side Plank: Lie on your side with your forearm on the ground, elbow beneath your shoulder. Lift your hips off the ground, creating a straight line from your head to your feet. Hold this position, engaging your oblique muscles. Repeat on the other side.
 
-The idea behind the 7-minute workout is to perform each exercise with maximum effort within the given time frame. It offers a quick and intense workout that can be done almost anywhere, making it a convenient option for individuals with busy schedules or limited time for exercise.
+# The idea behind the 7-minute workout is to perform each exercise with maximum effort within the given time frame. It offers a quick and intense workout that can be done almost anywhere, making it a convenient option for individuals with busy schedules or limited time for exercise.
