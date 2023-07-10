@@ -29,3 +29,16 @@
 ### The idea behind the 7-minute workout is to perform each exercise with maximum effort within the given time frame. It offers a quick and intense workout that can be done almost anywhere, making it a convenient option for individuals with busy schedules or limited time for exercise.
 
 ### In the traditional 7-minute workout, there is a 10-second rest period between each exercise. This short rest period allows for a quick recovery and transition to the next exercise. It is important to note that the workout is designed to be fast-paced and intense, so it's recommended to use the rest periods efficiently by preparing for the next exercise and catching your breath before moving on.
+
+Exercise 1: Jumping Jacks (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 2: Wall Sit (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 3: Push-Ups (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 4: Abdominal Crunches (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 5: Step-Ups onto a Chair (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 6: Squats (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 7: Tricep Dips on a Chair (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 8: Plank (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 9: High Knees (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 10: Lunges (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 11: Push-Up with Rotation (25 seconds) + Rest (10 seconds) = 35 seconds
+Exercise 12: Side Plank (25 seconds) + Rest (10 seconds) = 35 seconds
